@@ -26,11 +26,15 @@ Este projeto coleta dados de preços de produtos de um site de e-commerce e anal
     ```bash
     python collect_data.py
     ```
+    ![scrap-1](https://github.com/marcostulliosouza/web-scraping/assets/31325472/33b72621-c98f-4607-a5ae-d9fc4af97125)
+
 
 4. Execute o script de análise de dados:
     ```bash
     python collect_data.py
     ```
+    ![scrap-2](https://github.com/marcostulliosouza/web-scraping/assets/31325472/a27ef5fe-519e-48c8-8e26-b1ca0aa41d22)
+
     
 ## Resultados
 Os dados coletados são salvos em `product_prices.csv` e a análise de variação de preços é visualizada em gráfico.
